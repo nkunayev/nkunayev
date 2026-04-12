@@ -5,8 +5,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student
 ------------------------
 
-# Hi, I'm Nurali Kunayev
-
 Computer Science student at the University of Illinois Chicago interested in software engineering, backend systems, mobile applications, and interactive software.
 
 ## What I work on
@@ -40,7 +38,7 @@ Multi-board I2C game project built with Arduino, joystick, display, buzzer, vibr
 
 ## Connect
 - LinkedIn: [linkedin.com/in/nurali-kunayev](https://www.linkedin.com/in/nurali-kunayev/)
-- Email: nkunay2@uic.edu
+- Email: nuralikunayev@gmail.com
 *   🌍  I'm based in Chicago
 *   🧠  I'm learning Languages and Automata, Data Structures, Machine Organization
 *   🤝  I'm open to collaborating on Web Development
