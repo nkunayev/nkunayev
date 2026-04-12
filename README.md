@@ -5,8 +5,42 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student
 ------------------------
 
-I’m Nurali Kunayev, a Computer Science student at UIC. I have a deep interest in problem-solving and building efficient, scalable software solutions. My journey in programming began with languages like Python and C++, and I have a strong interest in cryptography, as demonstrated by my recent project on encryption tools. I'm always excited to work on challenging projects and collaborate with like-minded individuals to develop innovative solutions.
+# Hi, I'm Nurali Kunayev
 
+Computer Science student at the University of Illinois Chicago interested in software engineering, backend systems, mobile applications, and interactive software.
+
+## What I work on
+- Backend and API-driven applications
+- Mobile and user-facing software
+- Client-server systems
+- Interactive and game-based projects
+
+## Tech Stack
+**Languages:** Java, Python, C++, SQL, JavaScript, HTML, Scala  
+**Tools/Frameworks:** FastAPI, Firebase, Firestore, Flutter, Git/GitHub, Unity, Arduino, Figma
+
+## Featured Projects
+### Smart Grocery
+Cross-platform mobile app for recipe discovery, grocery list management, and personalized user workflows. Built with Flutter, Firebase Auth, Firestore, and external API integration.
+
+### BuySmart
+Chrome extension with a FastAPI backend that generates product recommendations from retailer catalogs and page-scanned shopping results.
+
+### Connect 4
+Client-server Java game with modular game logic, win detection, board-state updates, and real-time input validation.
+
+### Arduino Game System
+Multi-board I2C game project built with Arduino, joystick, display, buzzer, vibration, and LED modules, with real-time logic and synchronized hardware behavior.
+
+## Currently Interested In
+- Software engineering internships
+- Backend and full-stack development
+- Mobile app development
+- Interactive systems and game development
+
+## Connect
+- LinkedIn: [linkedin.com/in/nurali-kunayev](https://www.linkedin.com/in/nurali-kunayev/)
+- Email: nkunay2@uic.edu
 *   🌍  I'm based in Chicago
 *   🧠  I'm learning Languages and Automata, Data Structures, Machine Organization
 *   🤝  I'm open to collaborating on Web Development
