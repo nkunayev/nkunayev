@@ -2,8 +2,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nurali Kunayev
 ======================================================================================================================================
 
-# Hi, I'm Nurali Kunayev 👋
-
 I'm a Computer Science graduate from the University of Illinois Chicago, looking for entry-level software engineering opportunities. I am open to relocation and interested in building practical software products, backend/full-stack applications, AI-adjacent tools, and interactive systems.
 
 ## Featured Projects
@@ -35,7 +33,6 @@ Looking for new-grad / entry-level software engineering roles and open to reloca
 - LinkedIn: [linkedin.com/in/nurali-kunayev](https://www.linkedin.com/in/nurali-kunayev/)
 - Email: nuralikunayev@gmail.com
 *   🌍  I'm based in Chicago
-*   🧠  I'm learning Languages and Automata, Data Structures, Machine Organization
 *   🤝  I'm open to collaborating on Web Development
   ### Skills 
 <p align="left">
