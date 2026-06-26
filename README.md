@@ -2,39 +2,34 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nurali Kunayev
 ======================================================================================================================================
 
-Computer Science Student
-------------------------
+# Hi, I'm Nurali Kunayev 👋
 
-Computer Science student at the University of Illinois Chicago interested in software engineering, backend systems, mobile applications, and interactive software.
-
-## What I work on
-- Backend and API-driven applications
-- Mobile and user-facing software
-- Client-server systems
-- Interactive and game-based projects
-
-## Tech Stack
-**Languages:** Java, Python, C++, SQL, JavaScript, HTML, Scala  
-**Tools/Frameworks:** FastAPI, Firebase, Firestore, Flutter, Git/GitHub, Unity, Arduino, Figma
+I'm a Computer Science graduate from the University of Illinois Chicago, looking for entry-level software engineering opportunities. I am open to relocation and interested in building practical software products, backend/full-stack applications, AI-adjacent tools, and interactive systems.
 
 ## Featured Projects
-### Smart Grocery
-Cross-platform mobile app for recipe discovery, grocery list management, and personalized user workflows. Built with Flutter, Firebase Auth, Firestore, and external API integration.
 
 ### BuySmart
-Chrome extension with a FastAPI backend that generates product recommendations from retailer catalogs and page-scanned shopping results.
+AI-powered shopping assistant built during SparkHacks 2026. It helps users compare products, understand tradeoffs, and make budget-aware purchasing decisions.
 
-### Connect 4
-Client-server Java game with modular game logic, win detection, board-state updates, and real-time input validation.
+### Cat Is Liquid
+3D Unity puzzle game where a cat switches between solid and liquid forms to escape a lab. Built with Unity, C#, gameplay mechanics, UI feedback, sound, shaders, and puzzle/level design.
 
-### Arduino Game System
-Multi-board I2C game project built with Arduino, joystick, display, buzzer, vibration, and LED modules, with real-time logic and synchronized hardware behavior.
+### Connect Four Client-Server
+Multiplayer Java Connect Four game with client-server architecture, GUI, login, chat, waiting room, and restart flow.
 
-## Currently Interested In
-- Software engineering internships
-- Backend and full-stack development
-- Mobile app development
-- Interactive systems and game development
+### WeatherNow
+JavaFX weather application showing current weather and forecast data through a clean desktop UI.
+
+### Smart Grocery
+Grocery planning application focused on usability, filtering, and product-oriented design.
+
+## Tech I’ve Worked With
+
+Java, Python, C/C++, C#, SQL, Scala, JavaScript, HTML/CSS, Unity, JavaFX, Git
+
+## Currently
+
+Looking for new-grad / entry-level software engineering roles and open to relocation.
 
 ## Connect
 - LinkedIn: [linkedin.com/in/nurali-kunayev](https://www.linkedin.com/in/nurali-kunayev/)
